@@ -1,6 +1,7 @@
 # Trust-the-Critics
 This repository is a PyTorch implementation of the TTC algorithm and the WGAN misalignment experiments presented in *Trust the Critics: Generatorless and Multipurpose WGANs with Initial Convergence Guarantees*.
 
+Note that a new and improved implementation of the TTC algorithm can be found [here](https://github.com/bilocq/Trust-the-Critics-2).
 
 ## How to run this code ##
 * Create a Python virtual environment with Python 3.8 installed.
